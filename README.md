@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Francis</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;ASP.NET+Core+%7C+C%23;DevOps+Explorer;Scalable+System+Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Engineer;.NET+Core+Developer;Python+Django+Developer;Database+Designer" />
 </p>
 
 ---
@@ -21,12 +21,10 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Graph 
 <p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/Francis77v" alt="Classic Contribution Heatmap" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Francis77v&theme=light&hide_border=true&area=true&color=37b4aa&line=37b4aa&point=ffffff" alt="Modern Contribution Graph" />
-</p>
+  <!-- Classic contribution chart --> <img src="https://ghchart.rshah.org/409ba5/Francis77v" alt="Contribution Graph" /> <!-- GitHub activity graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Francis77v&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" /> </p>
 
 ---
 
