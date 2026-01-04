@@ -6,18 +6,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Francis77v&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Francis77v&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -26,10 +14,10 @@
 
 ---
 
-## 🛠 Top Languages
+## 🔝 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francis77v&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
