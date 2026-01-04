@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠 Tech Arsenal
+## 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,python,django,js,postgres,mysql,docker,linux&theme=light" />
 </p>
