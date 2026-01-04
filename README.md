@@ -22,7 +22,11 @@
 ---
 
 ## 📈 Contribution Graph
-<p align="center"> <!-- Classic contribution chart --> <img src="https://ghchart.rshah.org/409ba5/Francis77v" alt="Contribution Graph" /> <!-- GitHub activity graph --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Francis77v&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" /> </p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/Francis77v" alt="Classic Contribution Heatmap" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Francis77v&theme=light&hide_border=true&area=true&color=37b4aa&line=37b4aa&point=ffffff" alt="Modern Contribution Graph" />
+</p>
 
 ---
 
