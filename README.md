@@ -20,11 +20,24 @@
 </p>
 
 ---
-
-## 📈 Contribution Graph 
+## 📈 Contribution Graph
 <p align="center">
-  <!-- Classic contribution chart --> <img src="https://ghchart.rshah.org/409ba5/Francis77v" alt="Contribution Graph" /> <!-- GitHub activity graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Francis77v&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" /> </p>
+  <!-- Animated typing to make it feel dynamic -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Tracking+Contributions;Building+Projects;Learning+Daily" />
+
+  <!-- Classic contribution chart -->
+  <br>
+  <img src="https://ghchart.rshah.org/409ba5/Francis77v" alt="Contribution Graph" />
+
+  <!-- GitHub Activity Graph with area chart -->
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Francis77v&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+
+  <!-- Animated badge for extra flair -->
+  <br>
+  <img src="https://img.shields.io/badge/Contributions-🔥-brightgreen?style=for-the-badge&animation=glow" />
+</p>
+
 
 ---
 
