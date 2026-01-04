@@ -33,6 +33,16 @@
 
 ---
 
+## 📈 GitHub Profile Summary
+
+<p align="center">
+  <img src="https://github.com/Francis77v/github-profile-summary-cards/raw/output/generated/overview.svg" />
+  <img src="https://github.com/Francis77v/github-profile-summary-cards/raw/output/generated/languages.svg" />
+  <img src="https://github.com/Francis77v/github-profile-summary-cards/raw/output/generated/stats.svg" />
+</p>
+
+---
+
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/Francis77v">
